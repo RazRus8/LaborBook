@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
-using EmploymentHis.Model;
+using LaborBook.Model;
 
-namespace EmploymentHis.Actions
+namespace LaborBook.Actions
 {
     [Serializable]
     class ListPersons
